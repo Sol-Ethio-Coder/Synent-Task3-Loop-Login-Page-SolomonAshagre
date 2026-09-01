@@ -4,9 +4,7 @@ A clean, modern login interface built with plain HTML and CSS.
 This is my third task for my remote internship at **Synent Technologies**.
 
 ## Live Demo
-
-_Add your Vercel URL here once deployed, e.g._
-`https://loop-login.vercel.app`
+https://loop-login-page.vercel.app
 
 ## About
 
